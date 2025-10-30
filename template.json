@@ -1,0 +1,33 @@
+{
+  "job_title": "{{job_title}}",
+  "channel": "{{channel}}",
+  "style": "{{style}}",
+  "candidate_profile": "{{candidate_profile}}",
+  "language": "{{language}}",
+  "sections": {
+    "headline": "{{headline}}",
+    "subheadline": "{{subheadline}}",
+    "intro": "{{intro}}",
+    "responsibilities": [
+      "{{responsibility_1}}",
+      "{{responsibility_2}}",
+      "{{responsibility_3}}"
+    ],
+    "requirements": [
+      "{{requirement_1}}",
+      "{{requirement_2}}",
+      "{{requirement_3}}"
+    ],
+    "nice_to_have": [
+      "{{nice_1}}",
+      "{{nice_2}}"
+    ],
+    "offer": [
+      "{{offer_1}}",
+      "{{offer_2}}",
+      "{{offer_3}}"
+    ],
+    "why_us": "{{why_us}}",
+    "cta": "{{cta}}"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "Junior Cybersecurity Engineer|social|classic|students|PL": {
+    "json": {
+      "job_title": "Junior Cybersecurity Engineer",
+      "channel": "social",
+      "style": "classic",
+      "candidate_profile": "students",
+      "language": "PL",
+      "sections": {
+        "headline": "Zacznij karierę w Cyberbezpieczeństwie! 🛡️ Szukamy Młodszego Inżyniera!",
+        "subheadline": "Jesteś studentem kierunków IT? Chcesz zdobyć pierwsze doświadczenie w branży? Ta oferta jest dla Ciebie!",
+        "intro": "Masz pasję do bezpieczeństwa IT i chcesz uczyć się od najlepszych? Dołącz do naszego zespołu jako Junior Cybersecurity Engineer i zamień wiedzę teoretyczną w praktyczne umiejętności, broniąc naszych systemów przed zagrożeniami. 💻",
+        "responsibilities": [
+          "Monitorowanie i analiza logów oraz alertów bezpieczeństwa.",
+          "Wsparcie zespołu w obsłudze i reagowaniu na incydenty.",
+          "Pomoc w przeprowadzaniu skanów podatności.",
+          "Tworzenie i aktualizacja podstawowej dokumentacji bezpieczeństwa."
+        ],
+        "requirements": [
+          "Status studenta lub niedawny absolwent kierunków informatycznych lub pokrewnych.",
+          "Podstawowa wiedza z zakresu sieci komputerowych (TCP/IP, DNS, HTTP).",
+          "Ogólna znajomość systemów operacyjnych Windows i Linux.",
+          "Silna motywacja do nauki i rozwoju w dziedzinie cyberbezpieczeństwa.",
+          "Umiejętność analitycznego myślenia i rozwiązywania problemów."
+        ],
+        "nice_to_have": [
+          "Podstawowa znajomość języków skryptowych (np. Python, Bash).",
+          "Udział w projektach akademickich lub konkursach CTF.",
+          "Znajomość narzędzi takich jak Nmap czy Wireshark."
+        ],
+        "offer": [
+          "Płatny staż z elastycznym grafikiem, który pogodzisz ze studiami.",
+          "Wsparcie dedykowanego mentora i całego zespołu ekspertów.",
+          "Dostęp do szkoleń i możliwość zdobycia pierwszych certyfikatów.",
+          "Realne zadania i praca z nowoczesnymi technologiami bezpieczeństwa.",
+          "Świetna atmosfera i firmowe integracje. 🎉"
+        ],
+        "why_us": "Stawiamy na rozwój i praktyczną wiedzę! Dajemy Ci szansę na start w jednej z najciekawszych dziedzin IT pod okiem doświadczonych profesjonalistów.",
+        "cta": "Brzmi ciekawie? Nie czekaj! Wyślij swoje CV już dziś! ➡️ [link do aplikacji]"
+      }
+    },
+    "html": "<!-- templates/job_post.html -->\n<!doctype html>\n<html>\n\n<head>\n  <meta charset=\"utf-8\" />\n  <title>Junior Cybersecurity Engineer — Zacznij karierę w Cyberbezpieczeństwie! 🛡️ Szukamy Młodszego Inżyniera!</title>\n</head>\n\n<body>\n  <article>\n    <header>\n      <h1>Zacznij karierę w Cyberbezpieczeństwie! 🛡️ Szukamy Młodszego Inżyniera!</h1>\n      \n      <h2>Jesteś studentem kierunków IT? Chcesz zdobyć pierwsze doświadczenie w branży? Ta oferta jest dla Ciebie!</h2>\n      \n    </header>\n\n    <section>\n      <p>Masz pasję do bezpieczeństwa IT i chcesz uczyć się od najlepszych? Dołącz do naszego zespołu jako Junior Cybersecurity Engineer i zamień wiedzę teoretyczną w praktyczne umiejętności, broniąc naszych systemów przed zagrożeniami. 💻</p>\n    </section>\n\n    <section>\n      <h3>Twoje zadania</h3>\n      <ul>\n        \n        <li>Monitorowanie i analiza logów oraz alertów bezpieczeństwa.</li>\n        \n        <li>Wsparcie zespołu w obsłudze i reagowaniu na incydenty.</li>\n        \n        <li>Pomoc w przeprowadzaniu skanów podatności.</li>\n        \n        <li>Tworzenie i aktualizacja podstawowej dokumentacji bezpieczeństwa.</li>\n        \n      </ul>\n    </section>\n\n    <section>\n      <h3>Wymagania</h3>\n      <ul>\n        \n        <li>Status studenta lub niedawny absolwent kierunków informatycznych lub pokrewnych.</li>\n        \n        <li>Podstawowa wiedza z zakresu sieci komputerowych (TCP/IP, DNS, HTTP).</li>\n        \n        <li>Ogólna znajomość systemów operacyjnych Windows i Linux.</li>\n        \n        <li>Silna motywacja do nauki i rozwoju w dziedzinie cyberbezpieczeństwa.</li>\n        \n        <li>Umiejętność analitycznego myślenia i rozwiązywania problemów.</li>\n        \n      </ul>\n    </section>\n\n    \n    <section>\n      <h3>Mile widziane</h3>\n      <ul>\n        \n        <li>Podstawowa znajomość języków skryptowych (np. Python, Bash).</li>\n        \n        <li>Udział w projektach akademickich lub konkursach CTF.</li>\n        \n        <li>Znajomość narzędzi takich jak Nmap czy Wireshark.</li>\n        \n      </ul>\n    </section>\n    \n\n    <section>\n      <h3>Co oferujemy</h3>\n      <ul>\n        \n        <li>Płatny staż z elastycznym grafikiem, który pogodzisz ze studiami.</li>\n        \n        <li>Wsparcie dedykowanego mentora i całego zespołu ekspertów.</li>\n        \n        <li>Dostęp do szkoleń i możliwość zdobycia pierwszych certyfikatów.</li>\n        \n        <li>Realne zadania i praca z nowoczesnymi technologiami bezpieczeństwa.</li>\n        \n        <li>Świetna atmosfera i firmowe integracje. 🎉</li>\n        \n      </ul>\n    </section>\n\n    <section>\n      <h3>Dlaczego warto</h3>\n      <p>Stawiamy na rozwój i praktyczną wiedzę! Dajemy Ci szansę na start w jednej z najciekawszych dziedzin IT pod okiem doświadczonych profesjonalistów.</p>\n    </section>\n\n    <footer>\n      <h3>Jak aplikować</h3>\n      <p>Brzmi ciekawie? Nie czekaj! Wyślij swoje CV już dziś! ➡️ [link do aplikacji]</p>\n    </footer>\n  </article>\n</body>\n\n</html>"
+  },
+  "Junior Javascript Developer|social|classic|experienced|PL": {
+    "job_title": "Junior Javascript Developer",
+    "channel": "social",
+    "style": "classic",
+    "candidate_profile": "experienced",
+    "language": "PL",
+    "sections": {
+      "headline": "Dołącz do naszego zespołu jako Junior Javascript Developer! 💻",
+      "subheadline": "Szukamy osoby z pasją do kodu, która chce rozwijać z nami innowacyjne projekty webowe.",
+      "intro": "Nasz zespół rośnie w siłę i poszukujemy kogoś, kto wesprze nas w tworzeniu nowoczesnych aplikacji. Jeśli masz już pierwsze doświadczenie komercyjne i chcesz wziąć odpowiedzialność za kluczowe elementy naszych produktów, ta oferta jest dla Ciebie!",
+      "responsibilities": [
+        "Projektowanie i implementacja nowych funkcjonalności w aplikacjach webowych.",
+        "Rozwój i utrzymanie istniejącego kodu w oparciu o JavaScript i nowoczesne frameworki.",
+        "Aktywna współpraca z zespołem deweloperskim, projektowym i PM-ami.",
+        "Dbanie o wysoką jakość kodu poprzez code review i pisanie testów.",
+        "Optymalizacja wydajności i skalowalności naszych rozwiązań."
+      ],
+      "requirements": [
+        "Minimum 1 rok komercyjnego doświadczenia w pracy z JavaScript (ES6+).",
+        "Dobra, praktyczna znajomość jednego z frameworków: React, Vue lub Angular.",
+        "Doświadczenie w pracy z systemem kontroli wersji Git.",
+        "Umiejętność pracy z REST API.",
+        "Komunikatywność i chęć do pracy w zespole.",
+        "Znajomość języka angielskiego na poziomie B2 (dokumentacja techniczna)."
+      ],
+      "nice_to_have": [
+        "Doświadczenie z TypeScript.",
+        "Znajomość narzędzi do budowania projektów (np. Webpack, Vite).",
+        "Podstawowa wiedza na temat Node.js."
+      ],
+      "offer": [
+        "Stabilne zatrudnienie w oparciu o UoP lub B2B.",
+        "Atrakcyjne wynagrodzenie adekwatne do Twoich umiejętności.",
+        "Możliwość pracy zdalnej lub z naszego nowoczesnego biura.",
+        "Pakiet benefitów: prywatna opieka medyczna, karta sportowa.",
+        "Realny wpływ na produkt i technologie, z których korzystamy."
+      ],
+      "why_us": "Tworzymy środowisko, w którym liczy się samodzielność i profesjonalizm. Cenimy otwartą komunikację i wspólnie pracujemy nad najlepszymi rozwiązaniami, dzieląc się wiedzą i doświadczeniem.",
+      "cta": "Czujesz, że to rola dla Ciebie? Aplikuj teraz! Czekamy na Twoje CV. ➡️ [Link do formularza aplikacyjnego] #PracaIT #JavaScript #JuniorDeveloper #ProgramistaJS #React #Rekrutacja"
+    }
+  },
+  "Junior Cybersecurity Engineer_social_lifestyle_experienced_PL": {
+    "job_title": "Junior Cybersecurity Engineer",
+    "channel": "social",
+    "style": "lifestyle",
+    "candidate_profile": "experienced",
+    "language": "PL",
+    "sections": {
+      "headline": "Dołącz do naszej cyber-drużyny! 🛡️ Szukamy Młodszego Inżyniera Cyberbezpieczeństwa!",
+      "subheadline": "Masz już pierwsze szlify w IT security i chcesz pracować w miejscu, gdzie liczy się świetna atmosfera i work-life balance? To jest to! ✨",
+      "intro": "Hej! Jesteśmy zgranym zespołem pasjonatów technologii i właśnie teraz szukamy kogoś takiego jak Ty, kto pomoże nam chronić naszą cyfrową fortecę. U nas nie ma sztywnego korpo-klimatu – jest za to elastyczność, wsparcie i mnóstwo okazji do rozwoju (i wspólnej pizzy! 🍕).",
+      "responsibilities": [
+        "Będziesz naszym cyfrowym strażnikiem – monitorując i reagując na incydenty bezpieczeństwa.",
+        "Pomożesz nam uszczelniać systemy, wyszukując i analizując podatności.",
+        "Współtworzysz i wdrożysz nowe rozwiązania z zakresu cyberbezpieczeństwa.",
+        "Weźmiesz udział w projektach, które realnie wpływają na bezpieczeństwo naszej firmy i klientów."
+      ],
+      "requirements": [
+        "Masz już co najmniej rok doświadczenia w obszarze cyberbezpieczeństwa.",
+        "Znasz narzędzia takie jak SIEM, EDR czy skanery podatności.",
+        "Rozumiesz podstawy działania sieci (TCP/IP) i systemów operacyjnych (Linux/Windows).",
+        "Potrafisz myśleć analitycznie i nie boisz się rozwiązywać problemów.",
+        "Swobodnie komunikujesz się w języku angielskim."
+      ],
+      "nice_to_have": [
+        "Certyfikaty branżowe (np. CompTIA Security+).",
+        "Doświadczenie w skryptowaniu (Python, Bash).",
+        "Znajomość chmury (AWS, Azure)."
+      ],
+      "offer": [
+        "Elastyczne godziny pracy i możliwość pracy 100% zdalnej. 💻",
+        "Atrakcyjne wynagrodzenie i umowa o pracę lub B2B – Ty wybierasz!",
+        "Budżet szkoleniowy, bo Twój rozwój jest dla nas kluczowy. 🚀",
+        "Prywatna opieka medyczna, karta sportowa i ubezpieczenie na życie.",
+        "Legendarna atmosfera, regularne integracje i zespół, na który zawsze możesz liczyć. 😎"
+      ],
+      "why_us": "Wierzymy, że najlepsza praca to taka, do której przychodzi się z uśmiechem. Stawiamy na partnerskie relacje, otwartą komunikację i wsparcie na każdym kroku. Dołącz do nas i twórzmy razem bezpieczniejszy cyfrowy świat!",
+      "cta": "Czujesz, że to coś dla Ciebie? Nie czekaj! Aplikuj przez link w naszym bio! 👉 #PracaIT #Cybersecurity #ITSecurity #Junior #HiringPL #RemoteWork #Cyberbezpieczeństwo"
+    }
+  },
+  "Junior Cybersecurity Engineer_social_growth_experienced_PL": {
+    "job_title": "Junior Cybersecurity Engineer",
+    "channel": "social",
+    "style": "growth",
+    "candidate_profile": "experienced",
+    "language": "PL",
+    "sections": {
+      "headline": "Dołącz do naszej cyber-tarczy jako Junior Cybersecurity Engineer! 🛡️",
+      "subheadline": "Szukamy talentu z pierwszym doświadczeniem, gotowego na intensywny rozwój w świecie cyberbezpieczeństwa.",
+      "intro": "Masz już pierwsze kroki w IT za sobą i pasjonuje Cię bezpieczeństwo? U nas nie będziesz parzyć kawy! Od pierwszego dnia wejdziesz w świat realnych wyzwań, ucząc się od najlepszych ekspertów i pracując przy projektach, które mają znaczenie. Czas na kolejny krok w karierze! 🚀",
+      "responsibilities": [
+        "Monitorowanie i analiza alertów bezpieczeństwa pod okiem mentora.",
+        "Wsparcie w reagowaniu na incydenty i rozwiązywaniu problemów.",
+        "Udział w projektach wdrażania nowych narzędzi i technologii cybersec.",
+        "Aktywne poszukiwanie i ocena podatności w naszej infrastrukturze."
+      ],
+      "requirements": [
+        "Minimum rok doświadczenia komercyjnego w IT (np. jako administrator systemów/sieci).",
+        "Dobra znajomość protokołów sieciowych (TCP/IP, DNS, HTTP/S).",
+        "Podstawowa wiedza o typowych zagrożeniach (malware, phishing, ataki DoS).",
+        "Ogromna chęć do nauki i rozwijania kompetencji w cyberbezpieczeństwie.",
+        "Język angielski na poziomie umożliwiającym czytanie dokumentacji technicznej."
+      ],
+      "nice_to_have": [
+        "Ukończone kursy lub podstawowe certyfikaty z obszaru security (np. CompTIA Security+).",
+        "Umiejętność pisania prostych skryptów (np. w Pythonie, Bashu).",
+        "Doświadczenie z narzędziami typu SIEM lub IDS/IPS."
+      ],
+      "offer": [
+        "Indywidualny program mentorski i jasno określona ścieżka rozwoju.",
+        "Dedykowany budżet na szkolenia, certyfikacje i konferencje.",
+        "Możliwość pracy przy najnowszych technologiach i realny wpływ na projekty.",
+        "Elastyczne godziny pracy i możliwość pracy zdalnej.",
+        "Prywatna opieka medyczna, karta sportowa i spotkania integracyjne."
+      ],
+      "why_us": "Jesteśmy zespołem pasjonatów, gdzie rozwój to priorytet. Inwestujemy w naszych ludzi, bo wierzymy, że to najlepsza ochrona przed każdym zagrożeniem. Dołącz do nas i rośnij szybciej niż myślisz!",
+      "cta": "Gotowy/a na wyzwanie? 💪 Aplikuj przez link w bio i zacznij swoją przygodę w cybersec! #PracaIT #Cyberbezpieczeństwo #Junior #Rozwój #HiringPL"
+    }
+  }
+}

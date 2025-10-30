@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+jinja2
+pydantic
+google-genai
+gspread
+oauth2client
+requests
+python-multipart
