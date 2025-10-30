@@ -159,5 +159,243 @@
       "why_us": "Jesteśmy zespołem pasjonatów, gdzie rozwój to priorytet. Inwestujemy w naszych ludzi, bo wierzymy, że to najlepsza ochrona przed każdym zagrożeniem. Dołącz do nas i rośnij szybciej niż myślisz!",
       "cta": "Gotowy/a na wyzwanie? 💪 Aplikuj przez link w bio i zacznij swoją przygodę w cybersec! #PracaIT #Cyberbezpieczeństwo #Junior #Rozwój #HiringPL"
     }
+  },
+  "Junior Cybersecurity Engineer_pracujpl_lifestyle_experienced_PL": {
+    "job_title": "Junior Cybersecurity Engineer",
+    "channel": "pracujpl",
+    "style": "lifestyle",
+    "candidate_profile": "experienced",
+    "language": "PL",
+    "sections": {
+      "headline": "Junior Cybersecurity Engineer - Dołącz do zespołu, gdzie liczy się pasja i dobra atmosfera!",
+      "subheadline": "Szukamy osoby z doświadczeniem, która chce rozwijać się w cyberbezpieczeństwie i stać się częścią naszej zgranej ekipy w Warszawie (praca hybrydowa).",
+      "intro": "Cześć! Jesteśmy firmą technologiczną, dla której najważniejsi są ludzie. Wierzymy, że najlepsze wyniki osiąga się w atmosferze wzajemnego wsparcia i zaufania. Nasz zespół cyberbezpieczeństwa to grupa pasjonatów, którzy nie tylko chronią nasze systemy, ale też świetnie się ze sobą dogadują. Jeśli chcesz pracować w miejscu, gdzie Twoje zdanie ma znaczenie, a po pracy można wspólnie wyskoczyć na lunch lub planszówki, czytaj dalej!",
+      "responsibilities": [
+        "Współpraca z zespołem w zakresie monitorowania i analizy alertów bezpieczeństwa (SIEM, IDS/IPS).",
+        "Aktywny udział w reagowaniu na incydenty i wsparcie w ich rozwiązywaniu.",
+        "Pomoc w przeprowadzaniu analiz podatności oraz testów penetracyjnych.",
+        "Wsparcie w utrzymaniu i rozwoju narzędzi oraz procedur bezpieczeństwa.",
+        "Tworzenie dokumentacji technicznej i raportów dla zespołu."
+      ],
+      "requirements": [
+        "Minimum 1 rok doświadczenia zawodowego w obszarze IT, idealnie w cyberbezpieczeństwie.",
+        "Praktyczna znajomość podstawowych zagadnień sieciowych (TCP/IP) i systemów operacyjnych (Linux, Windows).",
+        "Umiejętność analitycznego myślenia i rozwiązywania problemów.",
+        "Proaktywna postawa i chęć do ciągłego uczenia się nowych technologii.",
+        "Komunikatywność i umiejętność efektywnej pracy w zespole."
+      ],
+      "nice_to_have": [
+        "Posiadanie certyfikatów branżowych (np. CompTIA Security+, CEH).",
+        "Doświadczenie w pracy z narzędziami SIEM (np. Splunk, ELK).",
+        "Podstawowa znajomość języków skryptowych (Python, Bash).",
+        "Zainteresowanie tematyką bezpieczeństwa chmury (AWS, Azure, GCP)."
+      ],
+      "offer": [
+        "Elastyczne godziny pracy i możliwość pracy w modelu hybrydowym (2 dni w biurze).",
+        "Nowoczesne biuro z chillout roomem, konsolą i świeżą kawą.",
+        "Prywatna opieka medyczna i karta sportowa, bo dbamy o Twoje zdrowie i dobre samopoczucie.",
+        "Regularne wyjścia integracyjne, wspólne lunche i luźna atmosfera na co dzień.",
+        "Budżet szkoleniowy i dostęp do platform e-learningowych.",
+        "Realny wpływ na projekty i wsparcie doświadczonych kolegów i koleżanek z zespołu."
+      ],
+      "why_us": "U nas nie znajdziesz sztywnej korporacyjnej atmosfery. Stawiamy na otwartą komunikację, płaską strukturę i work-life balance. Tworzymy środowisko, w którym każdy czuje się swobodnie, może rozwijać swoje pasje i liczyć na wsparcie całego zespołu. Dołącz do nas i przekonaj się, że praca może być przyjemnością!",
+      "cta": "Czujesz, że to miejsce dla Ciebie? Aplikuj teraz – chętnie poznamy Cię bliżej!"
+    }
+  },
+  "Junior Cybersecurity Engineer_pracujpl_lifestyle_students_PL": {
+    "job_title": "Junior Cybersecurity Engineer",
+    "channel": "pracujpl",
+    "style": "lifestyle",
+    "candidate_profile": "students",
+    "language": "PL",
+    "sections": {
+      "headline": "Rozpocznij karierę w IT! Młodszy Inżynier ds. Cyberbezpieczeństwa",
+      "subheadline": "Dołącz do naszego zespołu i rozwijaj się w przyjaznej atmosferze, z elastycznym grafikiem idealnym dla studentów!",
+      "intro": "Jesteśmy zgranym zespołem pasjonatów technologii i szukamy kogoś, kto tak jak my, chce chronić cyfrowy świat. Jeśli studiujesz i szukasz miejsca, gdzie teoria spotyka się z praktyką w luźnej, ale profesjonalnej atmosferze, to ta oferta jest dla Ciebie. U nas liczy się chęć nauki i dobra energia!",
+      "responsibilities": [
+        "Wsparcie zespołu w monitorowaniu systemów bezpieczeństwa.",
+        "Udział w analizie i reagowaniu na proste incydenty bezpieczeństwa.",
+        "Pomoc w przygotowywaniu raportów i dokumentacji technicznej.",
+        "Nauka i wdrażanie podstawowych konfiguracji narzędzi cybersecurity pod okiem mentora."
+      ],
+      "requirements": [
+        "Status studenta/studentki kierunku informatycznego lub pokrewnego (min. 3 rok).",
+        "Podstawowa wiedza z zakresu sieci komputerowych (TCP/IP, DNS, HTTP).",
+        "Zainteresowanie tematyką cyberbezpieczeństwa i ogromna chęć do nauki.",
+        "Komunikatywność i pozytywne nastawienie do pracy w zespole.",
+        "Dobra znajomość języka angielskiego (min. B2), pozwalająca na czytanie dokumentacji technicznej."
+      ],
+      "nice_to_have": [
+        "Podstawowa znajomość systemów operacyjnych Linux/Windows.",
+        "Pierwsze próby z narzędziami takimi jak Wireshark, Nmap czy Kali Linux.",
+        "Udział w kołach naukowych lub projektach akademickich związanych z IT."
+      ],
+      "offer": [
+        "Elastyczne godziny pracy, które bez problemu połączysz ze studiami.",
+        "Płatny staż z możliwością stałego zatrudnienia.",
+        "Wsparcie dedykowanego mentora i spersonalizowany plan rozwoju.",
+        "Świetna atmosfera, regularne integracje i chillout room z konsolą.",
+        "Pakiet benefitów: prywatna opieka medyczna i karta sportowa.",
+        "Możliwość pracy hybrydowej po okresie wdrożenia."
+      ],
+      "why_us": "Wierzymy, że najlepsze pomysły rodzą się w atmosferze wzajemnego szacunku i otwartości. Nasz zespół to nie tylko współpracownicy, ale grupa znajomych, która wspiera się nawzajem. Dbamy o work-life balance, bo wiemy, że zadowolony pracownik to kreatywny pracownik. Dołącz do nas i przekonaj się, że praca w IT może być pasjonującą przygodą!",
+      "cta": "Brzmi ciekawie? Nie czekaj! Wyślij swoje CV przez portal i dołącz do naszej paczki. Czekamy na Ciebie!"
+    }
+  },
+  "Junior Cybersecurity Engineer_social_classic_students_PL": {
+    "job_title": "Junior Cybersecurity Engineer",
+    "channel": "social",
+    "style": "classic",
+    "candidate_profile": "students",
+    "language": "PL",
+    "sections": {
+      "headline": "Rozpocznij karierę w IT! 🛡️ Szukamy Młodszego Inżyniera Cyberbezpieczeństwa!",
+      "subheadline": "Jesteś studentem/absolwentem kierunków technicznych? Chcesz rozwijać się w obszarze cybersec? To oferta dla Ciebie!",
+      "intro": "Dołącz do naszego zespołu i ucz się od najlepszych! Szukamy ambitnych i pełnych pasji osób, które chcą stawiać pierwsze kroki w świecie cyberbezpieczeństwa i pomagać nam chronić cyfrową rzeczywistość.",
+      "responsibilities": [
+        "Monitorowanie systemów bezpieczeństwa i reagowanie na podstawowe alerty.",
+        "Wsparcie zespołu w analizie i zarządzaniu incydentami bezpieczeństwa.",
+        "Pomoc w konfiguracji i utrzymaniu narzędzi bezpieczeństwa (SIEM, antywirus).",
+        "Tworzenie podstawowej dokumentacji technicznej i raportów."
+      ],
+      "requirements": [
+        "Status studenta lub niedawnego absolwenta kierunków informatycznych lub pokrewnych.",
+        "Podstawowa wiedza z zakresu sieci komputerowych (TCP/IP) oraz systemów operacyjnych (Windows/Linux).",
+        "Zainteresowanie tematyką cyberbezpieczeństwa i chęć do nauki.",
+        "Komunikatywna znajomość języka angielskiego (B2), pozwalająca na czytanie dokumentacji."
+      ],
+      "nice_to_have": [
+        "Znajomość podstawowych narzędzi, np. Nmap, Wireshark.",
+        "Udział w projektach akademickich lub konkursach CTF.",
+        "Ukończone kursy online z zakresu cyberbezpieczeństwa."
+      ],
+      "offer": [
+        "Płatny staż z możliwością stałego zatrudnienia.",
+        "Elastyczne godziny pracy, które dopasujesz do planu zajęć.",
+        "Wsparcie dedykowanego mentora i praca przy realnych projektach.",
+        "Dostęp do szkoleń i firmowej bazy wiedzy."
+      ],
+      "why_us": "Jesteśmy zespołem, w którym liczy się wiedza i współpraca. U nas zdobędziesz praktyczne doświadczenie, które będzie solidnym fundamentem Twojej przyszłej kariery w IT. 🚀",
+      "cta": "Zainteresowany/a? Aplikuj teraz! Wyślij swoje CV przez link w naszym bio! 👉"
+    }
+  },
+  "Junior Cybersecurity Engineer_pracujpl_growth_returners_PL": {
+    "job_title": "Junior Cybersecurity Engineer",
+    "channel": "pracujpl",
+    "style": "growth",
+    "candidate_profile": "returners",
+    "language": "PL",
+    "sections": {
+      "headline": "Junior Cybersecurity Engineer – Rozpocznij na nowo swoją karierę w IT!",
+      "subheadline": "Dołącz do naszego zespołu i rozwijaj się w obszarze cyberbezpieczeństwa pod okiem ekspertów.",
+      "intro": "Powracasz na rynek pracy i szukasz miejsca, w którym możesz odświeżyć swoje umiejętności i dalej się rozwijać? W naszej firmie wierzymy w potencjał i oferujemy ustrukturyzowany program wdrożeniowy oraz mentoring, który pomoże Ci pewnie wejść w świat cyberbezpieczeństwa. Szukamy osoby z pasją do technologii, gotowej na nowe wyzwania i naukę.",
+      "responsibilities": [
+        "Wsparcie w monitorowaniu i analizie alertów bezpieczeństwa w systemach SIEM.",
+        "Udział w reagowaniu na incydenty bezpieczeństwa pod nadzorem starszych specjalistów.",
+        "Pomoc w przeprowadzaniu podstawowych ocen podatności i analizy ryzyka.",
+        "Tworzenie i aktualizacja dokumentacji technicznej związanej z bezpieczeństwem.",
+        "Aktywny udział w projektach wdrożeniowych nowych rozwiązań z obszaru cyberbezpieczeństwa."
+      ],
+      "requirements": [
+        "Podstawowa znajomość zagadnień związanych z sieciami komputerowymi (TCP/IP, DNS, DHCP).",
+        "Zrozumienie fundamentalnych koncepcji cyberbezpieczeństwa (np. malware, phishing, firewall).",
+        "Zdolność analitycznego myślenia i chęć rozwiązywania problemów.",
+        "Wysoka motywacja do nauki i rozwoju w dynamicznie zmieniającej się dziedzinie.",
+        "Dobra znajomość języka angielskiego, umożliwiająca czytanie dokumentacji technicznej (min. B2)."
+      ],
+      "nice_to_have": [
+        "Doświadczenie w administracji systemami operacyjnymi Linux/Windows.",
+        "Znajomość podstaw jednego z języków skryptowych (np. Python, Bash).",
+        "Ukończone kursy lub certyfikaty z obszaru cyberbezpieczeństwa (np. CompTIA Security+)."
+      ],
+      "offer": [
+        "Stabilne zatrudnienie w oparciu o umowę o pracę.",
+        "Indywidualny plan rozwoju i dedykowany budżet szkoleniowy.",
+        "Wsparcie mentora, który pomoże Ci wdrożyć się w obowiązki i zaplanować ścieżkę kariery.",
+        "Możliwość zdobycia praktycznego doświadczenia w pracy z najnowszymi technologiami.",
+        "Przyjazna i wspierająca atmosfera, idealna do ponownego startu w karierze zawodowej.",
+        "Pakiet benefitów (prywatna opieka medyczna, karta sportowa, ubezpieczenie na życie)."
+      ],
+      "why_us": "Jesteśmy firmą, która stawia na rozwój swoich pracowników. Dołączając do nas, staniesz się częścią zespołu ekspertów, którzy chętnie dzielą się wiedzą. Oferujemy Ci nie tylko pracę, ale realną ścieżkę kariery w jednej z najbardziej przyszłościowych branż. Zapewniamy wszystkie narzędzia i wsparcie, których potrzebujesz, aby z sukcesem powrócić do życia zawodowego i stać się specjalistą w dziedzinie cyberbezpieczeństwa.",
+      "cta": "Czujesz, że to oferta dla Ciebie? Nie wahaj się i aplikuj już dziś! Chętnie poznamy Cię bliżej."
+    }
+  },
+  "Cybersecurity Engineer_social_classic_students_PL": {
+    "job_title": "Cybersecurity Engineer",
+    "channel": "social",
+    "style": "classic",
+    "candidate_profile": "students",
+    "language": "PL",
+    "sections": {
+      "headline": "Zostań Inżynierem Cyberbezpieczeństwa! 🛡️ Rozpocznij z nami swoją karierę w IT.",
+      "subheadline": "Szukamy ambitnych studentów i absolwentów do naszego zespołu ds. bezpieczeństwa. Zdobądź pierwsze doświadczenie!",
+      "intro": "Pasjonujesz się bezpieczeństwem systemów i chcesz uczyć się od najlepszych? To idealna okazja, aby wejść do świata cybersec! Aplikuj na płatny staż i rozwijaj swoje umiejętności w praktyce.",
+      "responsibilities": [
+        "Wsparcie w monitorowaniu i analizie zdarzeń bezpieczeństwa.",
+        "Udział w podstawowych testach bezpieczeństwa aplikacji i infrastruktury.",
+        "Pomoc w zarządzaniu incydentami i reagowaniu na zagrożenia.",
+        "Tworzenie i aktualizacja dokumentacji technicznej.",
+        "Nauka i wdrażanie nowych narzędzi i technologii cyberbezpieczeństwa."
+      ],
+      "requirements": [
+        "Status studenta lub absolwenta kierunków technicznych (informatyka, telekomunikacja lub pokrewne).",
+        "Podstawowa wiedza z zakresu sieci komputerowych (TCP/IP, DNS, firewall).",
+        "Zainteresowanie tematyką cyberbezpieczeństwa i chęć szybkiego uczenia się.",
+        "Analityczne myślenie i umiejętność rozwiązywania problemów.",
+        "Dobra znajomość języka angielskiego (min. B2)."
+      ],
+      "nice_to_have": [
+        "Podstawowa znajomość systemów Linux/Windows.",
+        "Znajomość narzędzi takich jak Wireshark, Nmap, czy Metasploit.",
+        "Udział w konkursach CTF lub własne projekty związane z bezpieczeństwem."
+      ],
+      "offer": [
+        "Płatny staż z elastycznymi godzinami pracy.",
+        "Możliwość pracy zdalnej lub hybrydowej.",
+        "Wsparcie dedykowanego mentora i całego zespołu.",
+        "Dostęp do szkoleń i certyfikacji.",
+        "Realna szansa na stałe zatrudnienie po zakończeniu stażu."
+      ],
+      "why_us": "U nas nie będziesz parzyć kawy! ☕ Od pierwszego dnia dołączysz do realnych projektów, które mają znaczenie. Zdobądź cenne doświadczenie i rozwijaj się w jednym z najgorętszych obszarów IT.",
+      "cta": "Zainteresowany/a? Nie czekaj! Wyślij swoje CV! Link w bio! 👉 #PracaIT #Staż #Cyberbezpieczeństwo #Kariera #Cybersecurity #PracaDlaStudenta"
+    }
+  },
+  "Junior Cybersecurity Engineer_social_classic_experienced_PL": {
+    "job_title": "Junior Cybersecurity Engineer",
+    "channel": "social",
+    "style": "classic",
+    "candidate_profile": "experienced",
+    "language": "PL",
+    "sections": {
+      "headline": "🛡️ Wzmacniamy naszą cyber-tarczę! Dołącz do zespołu jako Junior Cybersecurity Engineer!",
+      "subheadline": "Masz już pierwsze doświadczenie w IT Security i chcesz wziąć odpowiedzialność za ochronę realnych systemów? Szukamy właśnie Ciebie!",
+      "intro": "Nasz zespół ds. bezpieczeństwa rośnie w siłę i szukamy osoby, która nie boi się wyzwań i chce aktywnie uczestniczyć w obronie naszej infrastruktury. Jeśli chcesz wykorzystać swoje dotychczasowe doświadczenie i rozwijać się w dynamicznym środowisku, aplikuj!",
+      "responsibilities": [
+        "Monitorowanie i analiza logów oraz zdarzeń bezpieczeństwa (SIEM).",
+        "Aktywny udział w procesie reagowania na incydenty bezpieczeństwa.",
+        "Wsparcie przy zarządzaniu podatnościami i konfiguracji narzędzi security.",
+        "Prowadzenie podstawowej dokumentacji technicznej i raportowanie."
+      ],
+      "requirements": [
+        "Min. 1 rok komercyjnego doświadczenia w obszarze cyberbezpieczeństwa lub administracji IT z fokusem na security.",
+        "Praktyczna znajomość zagadnień sieciowych (TCP/IP, DNS, routing, firewalling).",
+        "Podstawowa znajomość systemów operacyjnych Windows i Linux.",
+        "Umiejętność analitycznego myślenia i samodzielnego rozwiązywania problemów.",
+        "Dobra znajomość języka angielskiego (min. B2)."
+      ],
+      "nice_to_have": [
+        "Doświadczenie z konkretnymi narzędziami SIEM, EDR lub antywirusowymi.",
+        "Podstawowa znajomość języków skryptowych (np. Python, Bash).",
+        "Certyfikaty branżowe (np. CompTIA Security+, CCNA)."
+      ],
+      "offer": [
+        "Stabilne zatrudnienie w oparciu o umowę o pracę.",
+        "Konkurencyjne wynagrodzenie adekwatne do Twojego doświadczenia.",
+        "Pakiet benefitów: prywatna opieka medyczna, karta sportowa, ubezpieczenie na życie.",
+        "Możliwość pracy w trybie hybrydowym.",
+        "Realny wpływ na kształtowanie bezpieczeństwa w firmie."
+      ],
+      "why_us": "Tworzymy zespół, w którym liczy się odpowiedzialność i współpraca. U nas nie będziesz tylko trybikiem w maszynie – Twoja praca ma realne znaczenie dla bezpieczeństwa całej organizacji. #Cyberbezpieczeństwo #PracaIT #Security #Hiring #InfoSec"
+    }
   }
 }
